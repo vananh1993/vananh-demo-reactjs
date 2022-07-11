@@ -1,0 +1,10 @@
+node_modules
+wp-config.php
+.htaccess
+wp-content/cache/
+wp-content/uploads/
+wp-content/plugins/copy-delete-posts
+wp-content/themes/sting/vendor/
+.tmp
+.DS_Store
+.gitconfig
